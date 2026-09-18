@@ -6,5 +6,8 @@
 crash.log
 crash.*.log
 
+# Files created by Terraform
+example.txt
+
 # Terraform lock file
 # Keep .terraform.lock.hcl in Git
